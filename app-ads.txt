@@ -326,3 +326,4 @@ blueseasx.com, 203613, RESELLER, 7998eac5087f6110
 blueseasx.com, 232670, RESELLER, 7998eac5087f6110
 onlinemediasolutions.com, 23120, RESELLER
 pubwise.io, 22376824, RESELLER, c327c91a93a7cdd3
+facebook.com, 1459103612026300, DIRECT, c3e20eee3f780d68
